@@ -61,7 +61,9 @@ github上相关资料：[https://github.com/Berkeley-CS61B](https://github.com/B
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/640636/1713327972754-809fd299-452a-47d7-8dc6-180d72e6c69d.png#averageHue=%23a5a7a6&clientId=u66f7b6e7-4032-4&from=paste&height=20&id=u825ca067&originHeight=40&originWidth=466&originalType=binary&ratio=2&rotation=0&showTitle=false&size=11049&status=done&style=none&taskId=ufaaab762-8850-441b-83c7-7f5ab658d3b&title=&width=233)
 ## 项目
 ### 去哪里找项目
-**我这边也有一些付费的项目，是精心设计过的，具备一定的技术亮点，和网上的项目有差异化，适合写在简历，需要可以联系我**![欢迎大家关注我的公众号](https://github.com/xiajunhust/awosome-cs/blob/main/QR-CODE.jpg)
+**我这边也有一些付费的项目，是精心设计过的，具备一定的技术亮点，和网上的项目有差异化，适合写在简历，需要可以联系我！**
+
+![个人wx](https://github.com/summerjava/awosome-cs/blob/main/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg)
 
 网上常见的找项目的平台有如下几个。
 
@@ -127,12 +129,12 @@ infra的项目比如说实现一个KV存储引擎（大家写的比较少，然�
 网络上有一些免费的教程，比如设计电梯系统、停车场系统等等，看几个视频课总结下规律。
 
 学习教程推荐：
-（1）[https://www.youtube.com/watch?v=odS_mmxDASc&list=PLvyIyKZVcfAl07QZ-zhebI5Zsf1EAbzlD](https://www.youtube.com/watch?v=odS_mmxDASc&list=PLvyIyKZVcfAl07QZ-zhebI5Zsf1EAbzlD)
+- [https://www.youtube.com/watch?v=odS_mmxDASc&list=PLvyIyKZVcfAl07QZ-zhebI5Zsf1EAbzlD](https://www.youtube.com/watch?v=odS_mmxDASc&list=PLvyIyKZVcfAl07QZ-zhebI5Zsf1EAbzlD)
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/640636/1690420678542-985a374a-648b-4666-9315-f76809dca6c4.png#averageHue=%23fafaf9&clientId=ub0aeb961-0f98-4&from=paste&height=330&id=ubafcda66&originHeight=660&originWidth=1100&originalType=binary&ratio=2&rotation=0&showTitle=false&size=262957&status=done&style=none&taskId=ua3d9d8c6-8e24-48c1-bbb4-859a68f4d59&title=&width=550)
-（2）前面的部分章节是免费的，可以看。[https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR)
+- 前面的部分章节是免费的，可以看。[https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR)
 ## System Design
-System Design一般intern不会考，NG的全职可能考简单的，社招考察比较多。
-重点是要掌握一个完整的系统有哪些模块以及相关理论基础、数据流程是怎么样的、涉及哪些技术框架或组件、伸缩性等怎么考量。
+System Design一般intern不会考，NG的全职可能考简单的，社招考察比较多。  
+重点是要掌握一个完整的系统有哪些模块以及相关理论基础、数据流程是怎么样的、涉及哪些技术框架或组件、伸缩性等怎么考量。  
 推荐教程：
 
 - system-design-primer：github star164K，理论+实践涵盖范围都非常齐全。强烈推荐。:[GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
@@ -141,7 +143,7 @@ System Design一般intern不会考，NG的全职可能考简单的，社招考�
 - [https://www.youtube.com/playlist?app=desktop&list=PLAd5bt5mn3V3TrrJFBpnu4PH9e8KZMvNA](https://www.youtube.com/playlist?app=desktop&list=PLAd5bt5mn3V3TrrJFBpnu4PH9e8KZMvNA)
 # 关于面试
 ## Mock Interview
-可以多和同学、学长学姐做mock interview，一方面是练习英语口语，另一方面是可以把项目的思路、细节捋清楚。
+可以多和同学、学长学姐做mock interview，一方面是练习英语口语，另一方面是可以把项目的思路、细节捋清楚。  
 一些平台：
 
 1. paramp（免费）：[https://www.pramp.com/#/sign-in](https://www.pramp.com/#/sign-in)
@@ -150,10 +152,12 @@ System Design一般intern不会考，NG的全职可能考简单的，社招考�
 4. （付费）：[https://www.techmockinterview.com/](https://www.techmockinterview.com/)
 5. [https://www.meetapro.com/](https://www.meetapro.com/)
 ## 关于Online Coding
-对于Phone Interview，平时可以多在Online Coding网站上练习，比如：Codepad，GoogleDoc，Dollabedit 等。确保在真实面试过程中能够编译运行代码，遇到问题快速Debug。
-对于Onsite Interview，大多公司比较喜欢用白板进行面试，这就要求同学们平时刷题的时候不要过度依赖IDE的Grammar Check，同时如果条件允许，增加用白板联系写代码的经验，在正确的基础上也要一定程度保证美观。
-面试Coding部分时，一定要首先跟面试官确定题目的隐含假设，例如输入是否有序、输入/输出是否可以有重复元素等。了解题意之后，尽量先与面试官交流自己的大致思路，确保该思路是面试官想要的方向再继续进行。
+对于Phone Interview，平时可以多在Online Coding网站上练习，比如：Codepad，GoogleDoc，Dollabedit 等。确保在真实面试过程中能够编译运行代码，遇到问题快速Debug。  
+对于Onsite Interview，大多公司比较喜欢用白板进行面试，这就要求同学们平时刷题的时候不要过度依赖IDE的Grammar Check，同时如果条件允许，增加用白板联系写代码的经验，在正确的基础上也要一定程度保证美观。  
+面试Coding部分时，一定要首先跟面试官确定题目的隐含假设，例如输入是否有序、输入/输出是否可以有重复元素等。了解题意之后，尽量先与面试官交流自己的大致思路，确保该思路是面试官想要的方向再继续进行。  
 
 ---
 
 **PS：如果需要SDE项目辅导、面试辅导、简历修改也可以联系我哦~~【V：meta1101】**
+
+![个人wx](https://github.com/summerjava/awosome-cs/blob/main/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg)
