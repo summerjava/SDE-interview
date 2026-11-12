@@ -131,7 +131,7 @@ infra的项目比如说实现一个KV存储引擎（大家写的比较少，然�
 学习教程推荐：
 - [https://www.youtube.com/watch?v=odS_mmxDASc&list=PLvyIyKZVcfAl07QZ-zhebI5Zsf1EAbzlD](https://www.youtube.com/watch?v=odS_mmxDASc&list=PLvyIyKZVcfAl07QZ-zhebI5Zsf1EAbzlD)
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/640636/1690420678542-985a374a-648b-4666-9315-f76809dca6c4.png#averageHue=%23fafaf9&clientId=ub0aeb961-0f98-4&from=paste&height=330&id=ubafcda66&originHeight=660&originWidth=1100&originalType=binary&ratio=2&rotation=0&showTitle=false&size=262957&status=done&style=none&taskId=ua3d9d8c6-8e24-48c1-bbb4-859a68f4d59&title=&width=550)
-- 前面的部分章节是免费的，可以看。[https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR)
+- 前面的部分章节是免费的，可以看。[https://www.designgurus.io/course/grokking-the-object-oriented-design-interview](https://www.designgurus.io/course/grokking-the-object-oriented-design-interview)
 ## System Design
 System Design一般intern不会考，NG的全职可能考简单的，社招考察比较多。  
 重点是要掌握一个完整的系统有哪些模块以及相关理论基础、数据流程是怎么样的、涉及哪些技术框架或组件、伸缩性等怎么考量。  
